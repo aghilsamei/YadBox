@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/YadBox/static/css/main.746f18ac.css",
+    "main.js": "/YadBox/static/js/main.a369e720.js",
+    "static/js/453.0e6ee28d.chunk.js": "/YadBox/static/js/453.0e6ee28d.chunk.js",
+    "service-worker.js": "/YadBox/service-worker.js",
+    "index.html": "/YadBox/index.html",
+    "main.746f18ac.css.map": "/YadBox/static/css/main.746f18ac.css.map",
+    "main.a369e720.js.map": "/YadBox/static/js/main.a369e720.js.map",
+    "453.0e6ee28d.chunk.js.map": "/YadBox/static/js/453.0e6ee28d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746f18ac.css",
+    "static/js/main.a369e720.js"
+  ]
+}
